@@ -8,7 +8,7 @@ We have worked on developing systems and technologies that allow spacecraft and 
 
 📫 Reach out on chandrabhraman@gmail.com
 
-https://github.com/chandrabhraman/awesome-lunar-gnc-resources
+[Awesome Lunar GNC Resources](https://github.com/chandrabhraman/awesome-lunar-gnc-resources)
 
 <!---
 chandrabhraman/chandrabhraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
