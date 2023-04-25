@@ -6,7 +6,9 @@ We have worked on developing systems and technologies that allow spacecraft and 
 
 💞️ We are interested in sharing our work and looking for collaborating with projects comprising the latest advancements in GNC for moon.
 
-📫 Reach out on chandrabhraman@gmail.com
+📫 Reach out on chandrabhraman@gmail.com  
+  
+[<img src="https://img.shields.io/badge/Slideshare-0077B5?style=for-the-badge&logo=slideshare&logoColor=white" />](https://www.slideshare.net/ChandraBhraman) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@chandrabhraman)
 
 # 🖥️ [Awesome Lunar GNC Resources](https://github.com/chandrabhraman/awesome-lunar-gnc-resources)
 
